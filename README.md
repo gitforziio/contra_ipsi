@@ -1,4 +1,4 @@
-# 脑电数据合并工具`contra_ipsi`
+# 脑电数据合并工具  contra_ipsi
 
 ## 概述
 
@@ -96,8 +96,6 @@
 脚本。选择两个要求均值的dat文件，合成一个，投射在右脑。
 
 
-#### script_path.m    xxxx
-#### datPairMean.m    xxxx
 
 ## File Name Format
 > 本工具所采用的特定的`.dat`文件命名格式

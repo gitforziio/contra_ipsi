@@ -99,7 +99,8 @@
 #### script_path.m    xxxx
 #### datPairMean.m    xxxx
 
-## 本工具所采用的特定的`.dat`文件命名格式
+## File Name Format
+> 本工具所采用的特定的`.dat`文件命名格式
 
 格式：`被试编号`+`-avg(`+`Validity或者逗号隔开的code`+`_`+`下划线相连接的条件描述`+`)`+`.dat`
 

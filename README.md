@@ -1,4 +1,8 @@
-# 脑电数据合并工具  contra_ipsi
+# 脑电数据合并工具--contra_ipsi
+
+
+> github：<https://github.com/gitforziio/contra_ipsi/>
+
 
 ## 概述
 

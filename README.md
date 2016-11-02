@@ -51,6 +51,7 @@
 作用：获取与输入的脑电channel所对应的channel。
 
 
+### dat文件相关
 
 #### datReader.m
 
